@@ -84,3 +84,8 @@ By implementing association rule learning on historical transaction data, this p
 These actionable insights, in continuation of the customer segmentation analysis, provide a foundation for strategic retail decisions that enhance customer engagement and boost overall profitability.
 
 For further details, please refer to the Market Basket Analysis Notebook in the project repository.
+![thank you](https://github.com/user-attachments/assets/a299793f-63fa-4ebe-a540-98fc7c5bcd22)
+
+
+
+
